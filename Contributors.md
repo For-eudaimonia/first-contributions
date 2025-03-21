@@ -37,7 +37,7 @@
 - [Parimi Pujitha](https://github.com/parimipujitha269)
 - [Khaled Javdan](https://github.com/kjavedan/)
 - [Fazlul Karim Choudhury](https://github.com/FazlulKarimC)
-- [Eris Kasa](https://github.com/eriskasa)
+- [Eris Kasa] (https://github.com/eriskasa)
 - [Timur Malkoc](https://github.com/TimurMalkc)
 - [Vijaya](https://github.com/Vijayaa21)
 - [Gustavo William](https://github.com/alt-gusta)
@@ -49,7 +49,7 @@
 - [Jonah Deschenes](https://github.com/JMDeschenes13)
 - [Shubha Bhat](https://github.com/syshubha)
 - Sam
-- kcy_first
+
 - [ZelenovicA](https://github.com/ZelenovicA)
 - Zeddie
 - [Timothy Phan](https://github.com/TimothyPhan2)
