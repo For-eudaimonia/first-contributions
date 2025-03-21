@@ -3,7 +3,7 @@
 -[Lovnish Verma]-(https://github.com/lovnishverma)
 -[Rohit Kumar](https://github.com/kumarrohitdev)
 [Tejaswi Saraswathi](https://github.com/Tejaswi1305)
-
+-[For-eudaimoni] (https://github.com/For-eudaimonia)
 -[Vyshnavi Jammi]-(https://github.com/vyshnaviJammi)
 -[shetloorrahul]-(https://github.com/shetloorrahul)
 -[Krishna Gollavilli]-(https://github.com/SvachutaGollavilli)
