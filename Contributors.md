@@ -3,7 +3,7 @@
 -[Lovnish Verma]-(https://github.com/lovnishverma)
 -[Rohit Kumar](https://github.com/kumarrohitdev)
 [Tejaswi Saraswathi](https://github.com/Tejaswi1305)
--[For-eudaimonia] (https://github.com/For-eudaimonia)
+-
 -[Vyshnavi Jammi]-(https://github.com/vyshnaviJammi)
 -[shetloorrahul]-(https://github.com/shetloorrahul)
 -[Krishna Gollavilli]-(https://github.com/SvachutaGollavilli)
@@ -135,6 +135,7 @@
 - [Emmanuel Leu Tecson](https://github.com/TEKKSUNN)
 - [git-gud-jim](https://github.com/git-gud-jim)
 - Abhinav KR
+- [For-eudaimonia](https://github.com/For-eudaimonia)
 - Mustafa Mubarak Shaik (GitHub-mubarakshaik6)
 - [Mohammad Ali Akmal](https://github.com/maliakmal)
 - [hannah0wang 🍍](https://github.com/hannah0wang)
